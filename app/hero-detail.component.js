@@ -30,10 +30,6 @@ var HeroDetailComponent = (function () {
     };
     return HeroDetailComponent;
 }());
-__decorate([
-    core_1.Input(),
-    __metadata("design:type", Object)
-], HeroDetailComponent.prototype, "hero", void 0);
 HeroDetailComponent = __decorate([
     core_1.Component({
         moduleId: module.id,
